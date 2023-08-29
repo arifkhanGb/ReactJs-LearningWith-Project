@@ -1,0 +1,12 @@
+.product_container{
+    /* border: 2px solid greenyellow; */
+    max-width: 80vw;
+    height: 100%;
+    justify-content: center;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    /* grid-template-columns: repeat(3, 1fr); */
+    gap: 20px;
+
+}

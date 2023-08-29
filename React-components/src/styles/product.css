@@ -1,0 +1,13 @@
+.Product{
+    /* border: 2px solid wheat; */
+    background-color: whitesmoke;
+    width: 100%;
+    
+
+}
+.Product > h1{
+    text-align: center;
+    width: 30vw;
+    margin: 5% auto;
+    border-bottom: 4px solid salmon;
+}

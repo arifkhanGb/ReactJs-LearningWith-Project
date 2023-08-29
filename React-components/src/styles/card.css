@@ -1,0 +1,16 @@
+.cart{
+    /* border: 2px solid blueviolet; */
+    width: 20%;
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.cart >img{
+    
+    width: 3vmax;
+    cursor: pointer;
+}
+#car{
+    border-radius: 50%;
+}

@@ -1,0 +1,12 @@
+.parent{
+    /* border: 2px solid green; */
+    width: 20%;
+    justify-content: center;
+    align-items: center;
+    
+}
+.parent img {
+    width: 5vmax;
+    
+    
+}
